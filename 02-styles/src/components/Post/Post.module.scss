@@ -1,0 +1,15 @@
+.post {
+        border-radius: 10px;
+        display: block;
+        width: 400px
+}
+
+.active {
+        composes: post;
+        border: 2px dashed green;
+}
+
+.unactive {
+        composes: post;
+        border: 2px dashed red
+}
