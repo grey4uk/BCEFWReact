@@ -1,0 +1,20 @@
+[
+        {
+                "id": 1,
+                "path": "https://img.freepik.com/free-photo/wide-angle-shot-of-a-single-tree-growing-under-a-clouded-sky-during-a-sunset-surrounded-by-grass_181624-22807.jpg",
+                "alt": "tree",
+                "active": true
+        },
+        {
+                "id": 2,
+                "path": "https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014__340.jpg",
+                "alt": "flowers",
+                "active": false
+        },
+        {
+                "id": 3,
+                "path": "https://www.bsr.org/images/heroes/bsr-focus-nature-hero.jpg",
+                "alt": "mountains",
+                "active": true
+        }
+]
